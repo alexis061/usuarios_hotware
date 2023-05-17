@@ -1,0 +1,7 @@
+Usuario para lanzar la instancia de los exámenes
+usuario: GestorAdmision
+contraseña: 1234
+
+Usuario para autorizar los exámenes
+usuario: AutorizadorAdmision
+contraseña: 1234
